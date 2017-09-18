@@ -1,0 +1,20 @@
+
+.container{
+    background-color: darkgrey;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    margin:20px;
+
+}
+
+img{
+    margin: 20px;
+    height: 350px;
+    width: 250px;
+    filter: blur(12px);
+}
